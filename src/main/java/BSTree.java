@@ -18,6 +18,7 @@
  * 接着根据程序的输出判断程序是否正确。
  */
 
+@SuppressWarnings("all")
 public class BSTree
 {
     private TreeNode root;//根结点

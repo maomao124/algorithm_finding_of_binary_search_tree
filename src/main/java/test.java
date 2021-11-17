@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * Description(描述)： 无
  */
 
-//@SuppressWarnings("all")
+@SuppressWarnings("all")
 public class test
 {
     public static void main(String[] args)
